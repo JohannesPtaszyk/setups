@@ -21,4 +21,6 @@ https://www.jetbrains.com/de-de/toolbox-app/download/download-thanks.html
 ## Visual Studio Code
 https://code.visualstudio.com/
 
-##
+## Homebrew
+
+## Oh My Zsh
