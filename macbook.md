@@ -20,6 +20,8 @@ https://code.visualstudio.com/
 ## Homebrew
 https://docs.brew.sh/Installation
 
+Note: Add `export PATH=/opt/homebrew/bin:$PATH` to .zshrc
+
 ## Oh My Zsh
 https://ohmyz.sh/#install
 
@@ -40,3 +42,8 @@ https://github.com/spaceship-prompt/spaceship-prompt
 | gradle  | completions and aliases for gradle | https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/gradle |
 | history  | `h` prints command history - `hs` searches command history | https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/history |
 | thefuck  | Press ESC twice to correct previous console command | https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/thefuck |
+
+Note: thefuck has to be installed via brew
+
+## sdkman
+https://sdkman.io/
