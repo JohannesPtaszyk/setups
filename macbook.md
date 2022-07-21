@@ -6,10 +6,20 @@ https://www.google.com/intl/de_de/chrome/
 ## Scroll Reverser
 https://pilotmoon.com/scrollreverser/
 
+## sdkman
+https://sdkman.io/
+
+## diff-so-fancy
+https://github.com/so-fancy/diff-so-fancy
+
 ## Jetbrains Toolbox
 https://www.jetbrains.com/de-de/toolbox-app/download/download-thanks.html
 
 ### Android Studio/Intellij IDEA Community Edition
+
+#### Setup steps
+* Use settings repository
+* Set JDK to java_home
 
 #### Plugins
 * Rainbow Brackets
@@ -45,6 +55,3 @@ https://github.com/spaceship-prompt/spaceship-prompt
 | thefuck  | Press ESC twice to correct previous console command | https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/thefuck |
 
 Note: thefuck has to be installed via brew
-
-## sdkman
-https://sdkman.io/
