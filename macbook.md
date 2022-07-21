@@ -55,3 +55,16 @@ https://github.com/spaceship-prompt/spaceship-prompt
 | thefuck  | Press ESC twice to correct previous console command | https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/thefuck |
 
 Note: thefuck has to be installed via brew
+
+## Stats
+https://github.com/exelban/stats
+
+Note: Homebrew installation
+
+## Spotify
+https://www.spotify.com/de/
+
+Note: Homebrew installation
+
+## Office
+App-Store Installation
