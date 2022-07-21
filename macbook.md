@@ -71,3 +71,6 @@ App-Store Installation
 
 ## Rectangle
 https://rectangleapp.com/
+
+## Scrcpy
+Note: Homebrew installation
