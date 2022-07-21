@@ -13,6 +13,7 @@ https://www.jetbrains.com/de-de/toolbox-app/download/download-thanks.html
 
 #### Plugins
 * Rainbow Brackets
+* Star Wars Progressbar
 
 ## Visual Studio Code
 https://code.visualstudio.com/
