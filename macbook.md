@@ -68,3 +68,6 @@ Note: Homebrew installation
 
 ## Office
 App-Store Installation
+
+## Rectangle
+https://rectangleapp.com/
