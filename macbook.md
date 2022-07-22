@@ -73,4 +73,6 @@ App-Store Installation
 https://rectangleapp.com/
 
 ## Scrcpy
+https://github.com/Genymobile/scrcpy
+
 Note: Homebrew installation
