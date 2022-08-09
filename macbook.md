@@ -47,12 +47,22 @@ https://github.com/spaceship-prompt/spaceship-prompt
 | ------------- | ------------- | ------------- |
 | adb | adb autocompletion | https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/adb |
 | aliases  | list aliases | https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/aliases |
+| chucknorris | chuck norris jokes on commandline | https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/chucknorris |
+| colored-man-pages | `colorize xyz --help` | https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/colored-man-pages |
+| command-not-found | suggest packages to install for commands that do not exist on the system |  |
+| common-aliases | list of common aliases |  |
+| extract | `extract` will extract common packages (7zip, zip, ...) |  |
 | git  | git aliases | https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git |
 | git-auto-fetch  | automatically fetch git repository | https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git-auto-fetch |
+| git-escape-magic | automatically espace git characters | https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git-escape-magic |
 | gitfast  | faster git autocompletion | https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/gitfast |
+| gitignore | gitignore.io from the commandline |  |
 | gradle  | completions and aliases for gradle | https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/gradle |
 | history  | `h` prints command history - `hs` searches command history | https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/history |
+| per-directory-history | keeps history for commandline per directory |  |
 | thefuck  | Press ESC twice to correct previous console command | https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/thefuck |
+| vscode | `vsc` commands to open files and directories in vscode |  |
+| zsh-interactive-cd | interactive cd command |  |
 
 Note: thefuck has to be installed via brew
 
